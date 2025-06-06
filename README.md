@@ -53,7 +53,9 @@ VITE_GROQ_API_KEY=your_groq_api_key_here
 VITE_GROK_API_KEY=your_grok_api_key_here
 ```
 
-**Note**: You only need to configure the API keys for the services you plan to use.
+**Note**: 
+- You only need to configure the API keys for the services you plan to use.
+- Google Chrome offers the most natural and expressive voices available through the Web Speech API.
 
 ### 4. Start the development server
 ```bash

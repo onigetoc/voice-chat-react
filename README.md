@@ -1,5 +1,7 @@
 # Voice Chat Demo - React AI Chatbot
 
+![Voice Chat React Demo](https://raw.githubusercontent.com/onigetoc/voice-chat-react/main/public/voice-chat-react.png)
+
 A modern React chatbot application featuring AI-powered conversations with Web Speech-to-Text (STT) and Text-to-Speech (TTS) capabilities, built with Vite and styled with Tailwind CSS.
 
 ## 🚀 Features
@@ -30,7 +32,7 @@ A modern React chatbot application featuring AI-powered conversations with Web S
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/onigetoc/voice-chat-react.git
 cd voice-chat-demo
 ```
 
@@ -41,14 +43,6 @@ npm install
 
 ### 3. Environment Configuration
 **Important**: Rename the `.env.example` file to `.env`:
-
-```bash
-# On Windows
-ren .env.example .env
-
-# On macOS/Linux
-mv .env.example .env
-```
 
 Then edit the `.env` file and add your API keys:
 
